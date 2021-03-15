@@ -89,7 +89,7 @@
     "itemGroup.storagedrawers": "Storage Drawers",
 
     "message.storagedrawers.cannot_add_upgrade": "Non è possibile aggiungere questo miglioramento in questo Drawer",
-    "message.storagedrawers.max_upgrades": "This drawer cannot accept any more upgrades",
+    "message.storagedrawers.max_upgrades": "Questo Drawer non può accettare altri miglioramenti",
 
     "tooltip.storagedrawers.drawers.capacity": "Conserva %d stacks",
     "tooltip.storagedrawers.drawers.sealed": "Oggetti sigillati all'interno",
